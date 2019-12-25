@@ -4,6 +4,8 @@ date: 2019-12-20 18:01:55
 tags:
 	- Java
 	- 基础
+	- 数组
+	- 内存
 categories: Java学习笔记
 ---
 
